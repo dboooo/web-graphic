@@ -1,0 +1,12 @@
+{
+  "name": "web-graphic",
+  "version": "1.0.0",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "vite": "^6.0.1"
+  }
+}
